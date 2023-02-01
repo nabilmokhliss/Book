@@ -381,3 +381,8 @@ footer a {
     text-align: center;
     margin: 10px;
 }
+
+iframe {
+    width: 400px;
+    height: 300px;
+}
